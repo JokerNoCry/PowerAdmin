@@ -92,7 +92,7 @@ function Write-Theme {
 `$sl.Colors.WithBackgroundColor = [ConsoleColor]::Magenta
 `$sl.Colors.VirtualEnvBackgroundColor = [System.ConsoleColor]::Red
 `$sl.Colors.VirtualEnvForegroundColor = [System.ConsoleColor]::White
-"@>$env:userprofile"\Documents\WindowsPowerShell\Modules\oh-my-posh\2.0.230\Themes\Paradox.psm1"
+"@>$env:userprofile"\Documents\WindowsPowerShell\Modules\oh-my-posh\2.0.496\Themes\Paradox.psm1"
 @"
 chcp 65001
 Set-PSReadlineOption -EditMode Emacs
